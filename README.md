@@ -12,7 +12,7 @@
   <a href="https://twitter.com/vvvbbbcz" target="_blank">
     <img src="https://img.shields.io/badge/X-vvvbbbcz-black?logo=x" />
   </a>
-  <a href="mailto:vvvbbbcz@bzgzs.cn">
-    <img src="https://img.shields.io/badge/Mail-vvvbbbcz%40bzgzs.cn-blue"/>
+  <a href="mailto:ms_vvvbbbcz@mail.scut.edu.cn">
+    <img src="https://img.shields.io/badge/Mail-ms_vvvbbbcz%40mail.scut.edu.cn-blue"/>
   </a>
 </p>
