@@ -1,6 +1,6 @@
 <h2 align="center">Hi👋! I'm vvvbbbcz!</h2>
 <p align="center">
-<img src="https://github-status.vvvbbbcz.com/api?username=vvvbbbcz&show_icons=true&theme=radical"></img>
+<img src="https://github-status.vvvbbbcz.com/api?username=vvvbbbcz&show_icons=true&theme=radical&locale=cn"></img>
 </p>
 
 <hr/>
