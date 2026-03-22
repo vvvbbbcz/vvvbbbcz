@@ -12,7 +12,7 @@
 </p>
 <hr/>
 <p align="center">
-    <img src="https://github-status.vvvbbbcz.com/api?username=vvvbbbcz&show_icons=true&theme=radical&locale=cn"/>
+    <img src="https://github-status.vvvbbbcz.com/api?username=vvvbbbcz&show_icons=true&theme=radical"/>
 </p>
 <p align="center">
     <img src="https://github-status.vvvbbbcz.com/api/top-langs/?username=vvvbbbcz"/>
