@@ -12,8 +12,8 @@
 </p>
 <hr/>
 <p align="center">
-    <img src="https://github-status.vvvbbbcz.com/api?username=vvvbbbcz&show_icons=true&theme=radical"/>
+    <img src="https://github-stats-extended.vercel.app/api?username=vvvbbbcz&theme=radical"/>
 </p>
 <p align="center">
-    <img src="https://github-status.vvvbbbcz.com/api/top-langs/?username=vvvbbbcz"/>
+    <img src="https://github-stats-extended.vercel.app/api/top-langs?username=vvvbbbcz&langs_count=4&theme=radical"/>
 </p>
